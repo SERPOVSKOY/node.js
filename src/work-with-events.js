@@ -1,5 +1,5 @@
 /* ============= Работа с событиями ============= */
-const events = require('events'); // встроенный пакет
+const events = require('events'); // встроенный пакет once, on, addEventListener
 const util = require('util'); // встроенный пакет
 
 
